@@ -1,0 +1,7 @@
+export const auth = {
+    AUTH_START: 'AUTH_START',
+    AUTH_SIGNUP: 'AUTH_SIGNUP',
+    AUTH_FAIL: 'AUTH_FAIL',
+    AUTH_SIGNOUT: 'AUTH_SIGNOUT',
+    AUTH_SIGNIN: 'AUTH_SIGNIN'
+};
